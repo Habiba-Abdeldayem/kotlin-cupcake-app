@@ -16,6 +16,13 @@ This app provides an order flow for cupcakes, allowing users to select options s
 - Knowledge of building composable functions in Jetpack Compose.
 
 ---
+### Screenshots
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+
+---
 
 ### Getting Started
 
