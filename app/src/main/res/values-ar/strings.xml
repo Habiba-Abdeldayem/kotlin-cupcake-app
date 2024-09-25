@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">تطبيق الكعك</string>
+    <string name="order_cupcakes">طلب كعكات</string>
+    <string name="one_cupcake">كعكة</string>
+    <string name="six_cupcakes">ست كعكات</string>
+    <string name="twelve_cupcakes">اثنا عشر كعكة</string>
+    <string name="choose_flavor">اختر نكهة</string>
+    <string name="vanilla">فانيليا</string>
+    <string name="chocolate">شوكولاتة</string>
+    <string name="red_velvet">ريد فيلفيت</string>
+    <string name="salted_caramel" translatable="false">كراميل</string>
+    <string name="coffee" translatable="false">قهوة</string>
+    <string name="special_flavor" translatable="false">نكهة خاصة</string>
+    <string name="cancel" translatable="false">إلغاء</string>
+    <string name="next" translatable="false">التالي</string>
+    <string name="choose_pickup_date" translatable="false">اختر التاريخ</string>
+    <string name="order_summary" translatable="false">ملخص الطلب</string>
+    <string name="send" translatable="false">إرسال إلى تطبيق آخر</string>
+    <string name="quantity">الكمية</string>
+    <string name="flavor">الطعم</string>
+    <string name="pickup_date">التاريخ</string>
+    <string name="subtotal_price">مجموع الحساب:  %s</string>
+    <string name="total_price">المجموع: %s</string>
+    <string name="new_cupcake_order">طلب كعكة جديد</string>
+    <string name="order_details" >الكمية: %1$s \nالنكهة: %2$s \nالتاريخ: %3$s \nالمجموع: %4$s \n\nشكرًا لك!</string>
+    <string name="back_button">السابق</string>
+
+    <plurals name="cupcakes">
+        <item quantity="zero">لا يوجد أي كعك</item>
+        <item quantity="one">كعكة واحدة</item>
+        <item quantity="two">كعكتان</item>
+        <item quantity="few">%d كعكات</item>
+        <item quantity="many">%d كعكة</item>
+        <item quantity="other">%d كعكة</item>
+    </plurals>
+
+</resources>
