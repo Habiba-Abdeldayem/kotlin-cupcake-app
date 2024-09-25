@@ -5,7 +5,7 @@ This app provides an order flow for cupcakes, allowing users to select options s
 
 ### Features
 - **Navigation**: The app implements a structured navigation flow using Jetpack Navigation, enabling seamless transitions between screens.
-- **UI and Navigation Testing**: Comprehensive UI tests and navigation tests are included to ensure the app's functionality and navigation flow are robust and reliable.
+- **UI and Navigation Testing**: UI tests and navigation tests are included to ensure the app's functionality and navigation flow are robust and reliable.
 - **Multi-language Support**: The app includes localization features, allowing it to be translated into other languages, such as Arabic, to cater to a wider audience.
 
 ---
@@ -21,6 +21,8 @@ This app provides an order flow for cupcakes, allowing users to select options s
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
+![image](https://github.com/user-attachments/assets/9f054d7e-3da4-43c5-bcb3-d03de9cf0a16)
+
 
 ---
 
